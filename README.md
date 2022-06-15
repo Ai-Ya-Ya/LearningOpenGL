@@ -1,1 +1,3 @@
-# PendulumSim
+# LearningOpenGL
+
+My introduction to OpenGL.
